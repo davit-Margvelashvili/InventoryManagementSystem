@@ -19,7 +19,7 @@ namespace InventoryManagementSystemUI
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             AppConfig.RegistreServices();
-            Application.Run(new MainForm());
+            Application.Run(new SplashScreenForm());
         }
     }
 }

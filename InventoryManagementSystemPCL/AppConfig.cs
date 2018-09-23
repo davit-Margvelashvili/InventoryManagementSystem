@@ -17,6 +17,11 @@ namespace InventoryManagementSystemPCL
             MPDCContainer
                 .Instance
                 .Register<ICategoryService, CategoryTestService>(() => new CategoryTestService());
+
+            MPDCContainer
+              .Instance
+              .Register<IUnitService, UnitTestService>(() => new UnitTestService());
+
         }
     }
 }

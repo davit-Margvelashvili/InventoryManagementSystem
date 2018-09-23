@@ -15,3 +15,7 @@ C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryMana
 C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.csproj.CopyComplete
 C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.exe
 C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.Forms.LoginForm.resources
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.Forms.SplashScreenForm.resources
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.Forms.AddProductForm.resources
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.Forms.InventoryForm.resources
