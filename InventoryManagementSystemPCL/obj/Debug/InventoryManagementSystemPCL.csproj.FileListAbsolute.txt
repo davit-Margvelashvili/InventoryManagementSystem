@@ -1,0 +1,9 @@
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\bin\Debug\InventoryManagementSystemPCL.dll
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\bin\Debug\InventoryManagementSystemPCL.pdb
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\bin\Debug\Newtonsoft.Json.dll
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\bin\Debug\Newtonsoft.Json.xml
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.csprojAssemblyReference.cache
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.csproj.CoreCompileInputs.cache
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.csproj.CopyComplete
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.dll
+c:\users\davit\source\repos\InventoryManagementSystemUI\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.pdb
