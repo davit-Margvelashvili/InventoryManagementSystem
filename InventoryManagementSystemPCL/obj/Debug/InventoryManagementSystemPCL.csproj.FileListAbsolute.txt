@@ -1,0 +1,11 @@
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\bin\Debug\InventoryManagementSystemPCL.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\bin\Debug\InventoryManagementSystemPCL.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\bin\Debug\MPDCContainer.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\bin\Debug\MPDCContainer.xml
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.csprojAssemblyReference.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.csproj.CopyComplete
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemPCL\obj\Debug\InventoryManagementSystemPCL.pdb

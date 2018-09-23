@@ -1,4 +1,5 @@
 ﻿using InventoryManagementSystemPCL.Models.Implementations;
+using InventoryManagementSystemPCL.Services.Abstractions;
 using InventoryManagementSystemPCL.Services.Implementations;
 using System;
 using System.Collections.Generic;
@@ -17,11 +18,15 @@ namespace InventoryManagementSystemUI.Forms
         public MainForm()
         {
             InitializeComponent();
+
+       
+
         }
 
         private async void MainForm_Load(object sender, EventArgs e)
         {
-         
+            var service = MPDC.Container.MPDCContainer.Instance.Get<ICategoryService>();
+            var categories = await service.GetProductCategoriesAsync();
         }
     }
 }

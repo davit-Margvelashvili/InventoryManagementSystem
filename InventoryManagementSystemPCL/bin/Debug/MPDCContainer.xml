@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MPDCContainer</name>
+    </assembly>
+    <members>
+        <member name="T:MPDC.Container.MPDCContainer">
+            <summary>
+            Singleton container
+            </summary>
+        </member>
+        <member name="P:MPDC.Container.MPDCContainer.Instance">
+            <summary>
+            Threadsafe instance of MPDCCOntainer type
+            </summary>
+        </member>
+        <member name="M:MPDC.Container.MPDCContainer.Register``2(System.Func{``1},MPDC.Container.MPDCContainer.RegisterAction)">
+            <summary>
+            Register type without initializing instantly. Instance will be created after first time of accessing it and will stay same instance for other retrievals 
+            </summary>
+            <typeparam name="T">Type to be stored as abstraction parent</typeparam>
+            <typeparam name="O">Implementator type</typeparam>
+            <param name="createInstanceFunc">A delegate that returns instance of the implementator type</param>
+        </member>
+        <member name="M:MPDC.Container.MPDCContainer.Register``2(``1,MPDC.Container.MPDCContainer.RegisterAction)">
+            <summary>
+            Register type by direct instance. This instance will be returned whenever registered T type is requested
+            </summary>
+            <typeparam name="T">Type to be stored as abstraction parent</typeparam>
+            <typeparam name="O">Implementator type</typeparam>
+            <param name="instance">the instance of the implementator type</param>
+        </member>
+        <member name="M:MPDC.Container.MPDCContainer.Get``1">
+            <summary>
+            Retrieve registered instance by corresponding abstraction
+            </summary>
+            <typeparam name="T">The type of abstration the instance was registered by</typeparam>
+            <returns>Returns the registered instance that implements given abstaction</returns>
+        </member>
+    </members>
+</doc>

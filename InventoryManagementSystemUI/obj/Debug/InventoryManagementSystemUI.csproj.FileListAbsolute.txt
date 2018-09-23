@@ -1,0 +1,17 @@
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\InventoryManagementSystemUI.exe.config
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\InventoryManagementSystemUI.exe
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\InventoryManagementSystemUI.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\InventoryManagementSystemPCL.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\MPDCContainer.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\InventoryManagementSystemPCL.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\MPDCContainer.xml
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.csprojAssemblyReference.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.Forms.MainForm.resources
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.Properties.Resources.resources
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.csproj.GenerateResource.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.csproj.CopyComplete
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.exe
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\InventoryManagementSystem\InventoryManagementSystemUI\obj\Debug\InventoryManagementSystemUI.pdb

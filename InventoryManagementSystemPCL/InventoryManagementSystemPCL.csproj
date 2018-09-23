@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MPDCContainer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MPDC.Container.1.0.6\lib\MPDCContainer.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -43,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppConfig.cs" />
     <Compile Include="Models\Abstractions\IProductCategory.cs" />
     <Compile Include="Models\Abstractions\IProduct.cs" />
     <Compile Include="Models\Abstractions\IUnit.cs" />
@@ -57,6 +61,7 @@
     <Compile Include="Services\Implementations\IMSWebClient.cs" />
     <Compile Include="Services\Implementations\ProductService.cs" />
     <Compile Include="Services\Implementations\UnitService.cs" />
+    <Compile Include="TestServices\CategoryTestService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
